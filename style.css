@@ -93,17 +93,17 @@ body {
    }
   
     .display{
-      margin-top: 25vw;
-      height: 50vh;
+      margin-top: 23vw;
     }
     
     .slide{
       padding-top:12vw;
       text-align:center;
+      padding-top: 7.5vw;
     }
     
     q{
-    font-size: 22px;
+    font-size: 25px;
    }
   
    button{
